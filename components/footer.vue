@@ -44,7 +44,7 @@
         >
       </nav>
       <div class="w-full md:w-1/3 text-center md:text-right mb-2">
-        Copyright © Polimi winter school 2023
+        Copyright © Polimi winter school 2024
       </div>
     </div>
   </div>
