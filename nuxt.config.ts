@@ -10,7 +10,7 @@ export default defineNuxtConfig({
   },
   app: {
     head: {
-      title: "Polimi Summer School",
+      title: "Polimi Winter School",
       meta: [
         { charset: "utf-8" },
         { name: "viewport", content: "width=device-width,initial-scale=1" },
@@ -18,7 +18,7 @@ export default defineNuxtConfig({
           hid: "description",
           name: "description",
           content:
-            "Polimi Summer School for the programming data science and machine learning courses",
+            "Polimi Winter School for the programming data science and machine learning courses",
         },
       ],
     },
